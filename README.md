@@ -6,7 +6,7 @@
 
 ## About Me
 - 🌍  I'm based in Nairobi, Kenya
-- 🔭 I’m currently working on an ATM Transaction System 
+- 🔭 I’m currently working on an Twitter News Aggregator 
 - 🌱 I’m currently learning Microsoft Azure
 - 📫 How to reach me: oluochodhiambo11@gmail.com
 - ⚡ Fun fact: ...
