@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer | .NET | C# | Python | JavaScript
 
-## Active Code Hours <a href="https://wakatime.com/@OluochOdhiambo"><img src="https://wakatime.com/badge/user/7a50151c-2547-49a4-bf3d-7ecd129f16b4.svg" alt="Total time coded since Jan 30 2023" /></a> since Feb 9 2023 👋
+## Active Code Hours [![wakatime](https://wakatime.com/badge/user/7ccce1c4-517b-4ed8-842a-5c3addc7ee7d.svg)](https://wakatime.com/@7ccce1c4-517b-4ed8-842a-5c3addc7ee7d) since Feb 9 2023 👋
 
 ## About Me
 - 🌍  I'm based in Nairobi, Kenya
